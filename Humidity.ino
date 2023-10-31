@@ -12,15 +12,9 @@ void setup() {
   pinMode(7, OUTPUT); // VERT
   pinMode(6, OUTPUT); // JAUNE
   pinMode(5, OUTPUT); // ROUGE
-
 }
 
 void loop() {
-
-  //("Temperature = " + String(dht.readTemperature())+" °C"); for later
-
-  delay(500);
-
   if (dht.readHumidity() > 40 && dht.readHumidity() < 60) {
     digitalWrite(7, HIGH);
     digitalWrite(6, LOW);
@@ -71,5 +65,3 @@ void loop() {
   lcd.setCursor(0, 1);
   lcd.print("Niveau :");
 }
-
-

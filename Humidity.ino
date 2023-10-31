@@ -17,7 +17,7 @@ void setup() {
 
 void loop() {
 
-  //("Temperature = " + String(dht.readTemperature())+" °C");
+  //("Temperature = " + String(dht.readTemperature())+" °C"); for later
 
   delay(500);
 

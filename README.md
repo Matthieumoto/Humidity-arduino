@@ -45,6 +45,8 @@ Le code lit les données du capteur DHT11 pour obtenir la valeur d'humidité. En
 
 ![IMG_6288](https://github.com/Matthieumoto/Humidity-arduino/assets/136125610/0c77364e-fc9e-4768-b35f-6b222f4b315e)
 
+![image](https://github.com/Matthieumoto/Humidity-arduino/assets/136125610/9b759bdd-4301-4eff-8f7e-1e8885888caa)
+
 ## Exécution du code
 
 1. Téléversez le code sur votre Arduino en utilisant l'IDE Arduino.

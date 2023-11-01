@@ -62,4 +62,4 @@ Ce projet a été réalisé par **Matthieu_moto**.
 
 ## Licence
 
-Ce code est sous licence [Licence] et peut être utilisé conformément aux termes de cette licence.
+Ce code est sous licence [LICENSE](LICENSE) et peut être utilisé conformément aux termes de cette licence.

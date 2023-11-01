@@ -31,7 +31,19 @@ Le code lit les données du capteur DHT11 pour obtenir la valeur d'humidité. En
 
 ## Photo 
 
+![IMG_6278](https://github.com/Matthieumoto/Humidity-arduino/assets/136125610/6eaaa6b3-8feb-4ae2-8626-b6a98b6fb59e)
 
+![IMG_6280](https://github.com/Matthieumoto/Humidity-arduino/assets/136125610/eaeaad10-554a-4208-9251-6db161b405d6)
+
+![IMG_6282](https://github.com/Matthieumoto/Humidity-arduino/assets/136125610/ccb0282a-dec7-4ed8-bfad-6b29e3669e36)
+
+![IMG_6285](https://github.com/Matthieumoto/Humidity-arduino/assets/136125610/06c205f7-3c40-4911-a0f4-274b570f78fb)
+
+![IMG_6287](https://github.com/Matthieumoto/Humidity-arduino/assets/136125610/22c3aa7e-42b5-42a0-9d0d-b5d0f8264790)
+
+![IMG_6283](https://github.com/Matthieumoto/Humidity-arduino/assets/136125610/54110ecf-d1e7-4ce8-a746-4dfc3a60be2c)
+
+![IMG_6288](https://github.com/Matthieumoto/Humidity-arduino/assets/136125610/0c77364e-fc9e-4768-b35f-6b222f4b315e)
 
 ## Exécution du code
 
